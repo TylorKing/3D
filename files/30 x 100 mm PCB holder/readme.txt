@@ -1,0 +1,1 @@
+Holder for a 30x100 mm PCB for assembly.
