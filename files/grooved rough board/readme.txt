@@ -1,0 +1,1 @@
+Grooved rough board useful for assembly's in Inventor. Can easily be scaled to the right size.

@@ -1,0 +1,1 @@
+After a drop the plastic part broke. This can be snapped on to the broken part to fix the fan.

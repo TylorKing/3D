@@ -1,0 +1,1 @@
+Fast printing version of a calibration cube in 20, 50 and 100 mm size. Before printing check that the axis shown in your slicer matches the ones on the printer.

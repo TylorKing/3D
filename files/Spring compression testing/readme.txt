@@ -1,0 +1,1 @@
+Test print to experimentally determine the right distance/compression of a spring for this application. Simply turn the knob until it feels right and measure with a caliper the depth. With this value you can calculate how far the spring is compressed.

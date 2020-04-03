@@ -1,0 +1,2 @@
+Case for a single plastic card. One version with cutout in the middle and the other one at the top to avoid retraction during printing with TPU.
+z-Spacing for the card slot is 1.5 mm. With standards cards this results in a lose fit after printing. 1.3 mm would be suggested for a normal fit.

@@ -1,0 +1,1 @@
+Model of a 3mm thick perforated plate with 5 mm holes every 15 mm useful for assembly's in Inventor.

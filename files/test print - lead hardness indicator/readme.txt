@@ -1,0 +1,1 @@
+This was a test to check if it is possible to print this (part of a lead hardness indicator for a mechanical pencil) on the Anet A6 with a 0.4mm nozzle and it turns out this is to difficult to print.

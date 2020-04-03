@@ -1,0 +1,1 @@
+Mounting hardware for perforated wood plates (3mm thick, 5mm holes) used to connect other parts (3mm thick, 5mm holes) to the pegboard.

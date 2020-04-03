@@ -1,0 +1,1 @@
+M8 nut as tri-wing design. One version with M8 marking on the side, the other one without.

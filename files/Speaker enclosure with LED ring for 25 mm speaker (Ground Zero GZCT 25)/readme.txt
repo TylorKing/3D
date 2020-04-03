@@ -1,0 +1,1 @@
+This is a enclosure for the Ground Zero GZCT 25 and a WS2812B LED ring on top with a M6 thread on the bottom for mounting and path for routing the cables.

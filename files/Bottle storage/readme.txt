@@ -1,0 +1,1 @@
+This is a little box which is hold together by the drawer walls. In order to print the second half mirror it within your slicer.
