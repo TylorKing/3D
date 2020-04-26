@@ -1,5 +1,9 @@
 Allows to mount the extruder on a standard powersupply.
-Also included are variants for dual and tripple extruder setups. While the dual extruder version should work fine. The tripple extruder version could fail given the lever length and total load/combined stepper motor weights (dual & triple version untested).
+Also included are variants for dual and tripple extruder setups. 
+This design is compatible with most extruder constructions. In particular with BMG  and MK8 (Creality & Anycubic)
+
+Note: Only the dual and single extruder is tested.
+
 
 Print Settings
 Printer:
