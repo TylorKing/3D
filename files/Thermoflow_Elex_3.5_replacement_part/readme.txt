@@ -1,0 +1,2 @@
+If you own a Thermoflow 3,5 which doesn't work anylonger this is likley the problem/solution.
+The hole in the middle is by design smaller then needed. For mounting use a drill bit to widen it to correct size.
