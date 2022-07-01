@@ -1,0 +1,1 @@
+Endpice for Igus 07 dragchain/energychain in 40mm width and 38mm bending radius

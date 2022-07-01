@@ -1,0 +1,2 @@
+Dual spoolholder for delta 3D-Printer like the Anycubic Kossel. 
+This part is only simulated and not actually printed. Given the accuaracy of the simulations in the past I expect this part to widthstand the load of 1kg spools without an problem.

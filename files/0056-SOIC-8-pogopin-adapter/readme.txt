@@ -1,0 +1,1 @@
+Pogo pin Adapter for contacting SOIC-8 (150 mil) packages.

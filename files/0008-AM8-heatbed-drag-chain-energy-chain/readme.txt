@@ -1,0 +1,4 @@
+Upgrading the Anet AM8 3D-printer with an Igus E045.2/7.028.0 energy/drag chain. Corrosponding cables can be ordered also from Igus (CF9.15.02; CF9.02.02: note CF9.15.02 is little bit to stiff so use a diffrent cable for the heatbed).
+Length of the E045.2/7.028.0 chain 245mm. End pices aren't required as both sides are printed. Cutting cost and reducing partcount/complexity.
+
+Since all the wires are hidden in the aluminium extrusion on this printer the junction box offers the possiblity to mount Wago clamps to connect the moving drag chain cables to those static hidden in the frame. The holder for the Wago 221 clamps is a remix and also avaible within this repository (Wago-221-2x4-holder).

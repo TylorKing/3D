@@ -1,0 +1,1 @@
+Holder for fishing rods.

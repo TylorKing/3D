@@ -1,0 +1,1 @@
+Endpice for Igus E045 dragchain/energychain in 18mm bending radius

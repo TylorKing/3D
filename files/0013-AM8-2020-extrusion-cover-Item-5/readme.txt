@@ -1,0 +1,2 @@
+This part is build on the 0002-2020-cover-Item-5. The modification are screw holes to fit the AM8 y-Axis assambly parts.
+The nut for the Item 5 profile is modified to be lower profile so it does not interfer with the printed cover.

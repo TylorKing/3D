@@ -1,0 +1,1 @@
+Snap fit and screw clamp for EN25 (25mm) pipe.

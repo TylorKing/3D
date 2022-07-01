@@ -1,0 +1,2 @@
+Two versions of an weather enclosure for small sensor boards.
+In the sun temperatures inside can raise more then 30°C above ambient. From a weather proofing standpoint a year in with zero failures (additionally conformal coated the PCBs).

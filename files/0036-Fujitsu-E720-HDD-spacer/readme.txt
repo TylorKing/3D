@@ -1,0 +1,1 @@
+Replacemount pins for the Fujitsu E720 HDD mounts. print the pin out of a solid and the grommet out of a semi ridig material.

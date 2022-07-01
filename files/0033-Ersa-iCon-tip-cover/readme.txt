@@ -1,0 +1,1 @@
+Tip cover for the spare solderingtips on the Ersa iCon nano and pico. This is in particular usefull to protect you from the 0.2 mm tipps when the tipp isn't used.

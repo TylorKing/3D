@@ -1,0 +1,1 @@
+Universal 2D mount for max. 110 mm spacing and M3 screw hole. Two of these can for example be used to mount SKR v1.4 to 2020 aluminium profiles.
